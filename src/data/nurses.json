@@ -1,0 +1,314 @@
+[
+		{
+			"state": "USA total",
+			"nurses": 3956080,
+			"pop": 328055000,
+			"npp": 12.06
+		},
+		{
+			"state": "South Carolina",
+			"nurses": 40600,
+			"pop": 5149000,
+			"npp": 7.89
+		},
+		{
+			"state": "Nevada",
+			"nurses": 28400,
+			"pop": 3080000,
+			"npp": 9.22
+		},
+		{
+			"state": "California",
+			"nurses": 365500,
+			"pop": 39512000,
+			"npp": 9.25
+		},
+		{
+			"state": "Texas",
+			"nurses": 279000,
+			"pop": 28996000,
+			"npp": 9.62
+		},
+		{
+			"state": "Georgia",
+			"nurses": 108600,
+			"pop": 10617000,
+			"npp": 10.23
+		},
+		{
+			"state": "Washington",
+			"nurses": 78100,
+			"pop": 7615000,
+			"npp": 10.26
+		},
+		{
+			"state": "Arizona",
+			"nurses": 75600,
+			"pop": 7279000,
+			"npp": 10.39
+		},
+		{
+			"state": "Rhode Island",
+			"nurses": 11000,
+			"pop": 1059000,
+			"npp": 10.39
+		},
+		{
+			"state": "Virginia",
+			"nurses": 89800,
+			"pop": 8536000,
+			"npp": 10.52
+		},
+		{
+			"state": "Idaho",
+			"nurses": 18800,
+			"pop": 1787000,
+			"npp": 10.52
+		},
+		{
+			"state": "Utah",
+			"nurses": 33900,
+			"pop": 3206000,
+			"npp": 10.57
+		},
+		{
+			"state": "Montana",
+			"nurses": 11500,
+			"pop": 1069000,
+			"npp": 10.76
+		},
+		{
+			"state": "New Jersey",
+			"nurses": 97100,
+			"pop": 8882000,
+			"npp": 10.93
+		},
+		{
+			"state": "Oregon",
+			"nurses": 46500,
+			"pop": 4218000,
+			"npp": 11.02
+		},
+		{
+			"state": "New Mexico",
+			"nurses": 23200,
+			"pop": 2097000,
+			"npp": 11.06
+		},
+		{
+			"state": "Oklahoma",
+			"nurses": 44200,
+			"pop": 3957000,
+			"npp": 11.17
+		},
+		{
+			"state": "Maryland",
+			"nurses": 68300,
+			"pop": 6046000,
+			"npp": 11.3
+		},
+		{
+			"state": "Colorado",
+			"nurses": 66100,
+			"pop": 5759000,
+			"npp": 11.48
+		},
+		{
+			"state": "North Carolina",
+			"nurses": 120600,
+			"pop": 10488000,
+			"npp": 11.5
+		},
+		{
+			"state": "Louisiana",
+			"nurses": 54000,
+			"pop": 4649000,
+			"npp": 11.62
+		},
+		{
+			"state": "Arkansas",
+			"nurses": 36700,
+			"pop": 3018000,
+			"npp": 12.16
+		},
+		{
+			"state": "New York",
+			"nurses": 238300,
+			"pop": 19454000,
+			"npp": 12.25
+		},
+		{
+			"state": "Illinois",
+			"nurses": 157400,
+			"pop": 12672000,
+			"npp": 12.42
+		},
+		{
+			"state": "Florida",
+			"nurses": 272400,
+			"pop": 21478000,
+			"npp": 12.68
+		},
+		{
+			"state": "Alabama",
+			"nurses": 62700,
+			"pop": 4903000,
+			"npp": 12.79
+		},
+		{
+			"state": "Nebraska",
+			"nurses": 25000,
+			"pop": 1934000,
+			"npp": 12.93
+		},
+		{
+			"state": "Tennessee",
+			"nurses": 92000,
+			"pop": 6833000,
+			"npp": 13.46
+		},
+		{
+			"state": "New Hampshire",
+			"nurses": 18400,
+			"pop": 1360000,
+			"npp": 13.53
+		},
+		{
+			"state": "Kentucky",
+			"nurses": 61000,
+			"pop": 4468000,
+			"npp": 13.65
+		},
+		{
+			"state": "Michigan",
+			"nurses": 137500,
+			"pop": 9987000,
+			"npp": 13.77
+		},
+		{
+			"state": "Mississippi",
+			"nurses": 41300,
+			"pop": 2976000,
+			"npp": 13.88
+		},
+		{
+			"state": "Alaska",
+			"nurses": 10200,
+			"pop": 732000,
+			"npp": 13.93
+		},
+		{
+			"state": "Hawaii",
+			"nurses": 20000,
+			"pop": 1416000,
+			"npp": 14.12
+		},
+		{
+			"state": "South Dakota",
+			"nurses": 12500,
+			"pop": 885000,
+			"npp": 14.12
+		},
+		{
+			"state": "Iowa",
+			"nurses": 46180,
+			"pop": 3155000,
+			"npp": 14.64
+		},
+		{
+			"state": "Kansas",
+			"nurses": 42900,
+			"pop": 2913000,
+			"npp": 14.73
+		},
+		{
+			"state": "Connecticut",
+			"nurses": 52600,
+			"pop": 3565000,
+			"npp": 14.75
+		},
+		{
+			"state": "West Virginia",
+			"nurses": 26600,
+			"pop": 1792000,
+			"npp": 14.84
+		},
+		{
+			"state": "Indiana",
+			"nurses": 97200,
+			"pop": 6484000,
+			"npp": 14.99
+		},
+		{
+			"state": "Pennsylvania",
+			"nurses": 193200,
+			"pop": 12802000,
+			"npp": 15.09
+		},
+		{
+			"state": "Missouri",
+			"nurses": 92900,
+			"pop": 6137000,
+			"npp": 15.14
+		},
+		{
+			"state": "Wisconsin",
+			"nurses": 88500,
+			"pop": 5822000,
+			"npp": 15.2
+		},
+		{
+			"state": "Ohio",
+			"nurses": 184000,
+			"pop": 11689000,
+			"npp": 15.74
+		},
+		{
+			"state": "Minnesota",
+			"nurses": 89000,
+			"pop": 5640000,
+			"npp": 15.78
+		},
+		{
+			"state": "Maine",
+			"nurses": 21500,
+			"pop": 1344000,
+			"npp": 16
+		},
+		{
+			"state": "Massachusetts",
+			"nurses": 111500,
+			"pop": 6950000,
+			"npp": 16.04
+		},
+		{
+			"state": "Delaware",
+			"nurses": 15800,
+			"pop": 974000,
+			"npp": 16.22
+		},
+		{
+			"state": "North Dakota",
+			"nurses": 12500,
+			"pop": 762000,
+			"npp": 16.4
+		},
+		{
+			"state": "Vermont",
+			"nurses": 11000,
+			"pop": 624000,
+			"npp": 17.63
+		},
+		{
+			"state": "Washington DC",
+			"nurses": 13000,
+			"pop": 706000,
+			"npp": 18.41
+		},
+		{
+			"state": "Wyoming",
+			"nurses": 11500,
+			"pop": 579000,
+			"npp": 19.86
+		}
+	]

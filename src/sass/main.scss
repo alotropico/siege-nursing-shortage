@@ -1,0 +1,26 @@
+@import 'vars';
+@import 'map';
+
+#siege-wrapper {
+    .content {
+        border: none;
+        float: none;
+    }
+    .entry {
+        background-color: transparent;
+        padding: 0;
+    }
+    .content h1 {
+        margin-bottom: 5px;
+
+        @include mobile {
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+    }
+    .tagline {
+        line-height: 1.4;
+        margin-bottom: 30px;
+        margin-left: 3px;
+    }
+}
